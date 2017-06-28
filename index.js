@@ -182,6 +182,9 @@ module.exports = {
     // Mocha functions should use function expressions, not arrow functions
     "mocha/no-mocha-arrows": "error",
 
+    // Disallow exclusive tests
+    "mocha/no-exclusive-tests": "error",
+
     // Either function expressions or arrow callbacks can be used
     "prefer-arrow-callback": "off"
   }
