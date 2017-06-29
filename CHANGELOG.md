@@ -1,3 +1,6 @@
+* 2.2.0 June 28, 2017
+  - Add mocha/no-exclusive-tests rule
+
 * 2.1.0 March 7, 2017
   - Updated no-unused-args to allow rest siblings and removed excepting `_`-prefixed variables.
 
