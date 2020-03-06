@@ -1,3 +1,6 @@
+* 3.0.0 March 6, 2020
+  - Bump all peer dependencies
+
 * 2.2.0 June 28, 2017
   - Add mocha/no-exclusive-tests rule
 
