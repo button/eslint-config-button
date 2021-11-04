@@ -1,3 +1,6 @@
+* 3.1.0 November 4, 2021
+  - Move dependencies to devDependencies
+
 * 3.0.0 March 6, 2020
   - Bump all peer dependencies
 
