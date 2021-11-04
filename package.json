@@ -25,8 +25,7 @@
     "url": "https://github.com/button/eslint-config-button/issues"
   },
   "homepage": "https://github.com/button/eslint-config-button#readme",
-  "dependencies": {},
-  "peerDependencies": {
+  "dependencies": {
     "eslint": ">=6.8.0",
     "babel-eslint": "^10.1.0",
     "eslint-config-airbnb": "^18.0.1",
@@ -35,6 +34,7 @@
     "eslint-plugin-react": "^7.18.3",
     "eslint-plugin-mocha": "^6.3.0"
   },
+  "peerDependencies": {},
   "files": [
     "index.js"
   ]
