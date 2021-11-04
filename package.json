@@ -25,7 +25,7 @@
     "url": "https://github.com/button/eslint-config-button/issues"
   },
   "homepage": "https://github.com/button/eslint-config-button#readme",
-  "dependencies": {
+  "devDependencies": {
     "eslint": ">=6.8.0",
     "babel-eslint": "^10.1.0",
     "eslint-config-airbnb": "^18.0.1",
